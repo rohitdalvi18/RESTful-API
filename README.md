@@ -26,7 +26,7 @@ This is a RESTful API tested locally using POSTMAN and ROBO3T
 }
 ```
 
-Re-populate Database
+## Re-populate Database
 
 ```
 {
@@ -64,3 +64,4 @@ Re-populate Database
     "__v" : 0
 }
 ```
+
